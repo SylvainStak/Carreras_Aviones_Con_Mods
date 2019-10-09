@@ -1,0 +1,80 @@
+td{
+    border: 1px solid black;
+    padding: 0px;    
+    text-align: center;  
+    border-radius: 10%;
+}
+
+#recorrido td{
+    min-width: 40px;
+    height: 40px;
+}       
+
+.results td{
+    padding: 10px;
+}
+
+.results{
+    margin: 10px 10px 0px 0px;
+    float: left;
+    border: 1px dashed black;
+}
+
+#new{
+    margin-left: 100px;
+}
+
+#next{
+    margin-right: 5px;
+}        
+
+img{
+    margin: 0px;
+    padding: 0px;
+    width: 40px;
+    height: 40px;
+    border-radius: 10%;
+}
+
+button{
+    margin: 10px;
+    padding: 5px;
+    border: 0.5px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+h1{
+    font-family: Arial;
+    margin-left: 10%;
+    color: blue;
+    font-size: 40px;
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(42, 162, 184);
+}
+table{
+    background-color: rgb(30, 255, 225);
+    border-radius: 10px;
+    border: 3px solid gray;
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
+caption{
+    font-weight: bold;
+}
+
+.nube{
+    background-image: url('../imagenes/nube.jpg');
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+}
+
+.rayo{
+    background-image: url('../imagenes/trueno.png');
+    background-size: 40px 40px; 
+    background-repeat: no-repeat;
+}
